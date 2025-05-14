@@ -1,2 +1,2 @@
 # hello-world-
-Este repositorio es para practicar el flujo de GitHub
+hola mi nombre es iñaki, tengo 17 años, me gusta el basquet y estoy aprendiendo a usar esto.
